@@ -1,4 +1,4 @@
-<img src = "https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg">
+<img src = "https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" width="700px">
 <h1 align="center">Hi 👋, I'm Dinesh Prasad Joshi</h1>
 <h3 align="center">A passionate Full-Stack Developer from Nepal</h3>
 
